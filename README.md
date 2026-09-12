@@ -7,10 +7,10 @@
 Local library, real audio DSP, synced lyrics, and an opt-in tier of free online
 catalogs — in a single portable app built on Rust + Tauri + React.
 
-[![Build](https://github.com/BMDarkLight/Wave/actions/workflows/build.yml/badge.svg)](https://github.com/BMDarkLight/Wave/actions/workflows/build.yml)
-[![Android Build](https://github.com/BMDarkLight/Wave/actions/workflows/android.yml/badge.svg)](https://github.com/BMDarkLight/Wave/actions/workflows/android.yml)
-[![Rust](https://github.com/BMDarkLight/Wave/actions/workflows/rust.yml/badge.svg)](https://github.com/BMDarkLight/Wave/actions/workflows/rust.yml)
-[![Frontend](https://github.com/BMDarkLight/Wave/actions/workflows/frontend.yml/badge.svg)](https://github.com/BMDarkLight/Wave/actions/workflows/frontend.yml)
+[![Build](https://github.com/behdadmehrnia/Wave/actions/workflows/build.yml/badge.svg)](https://github.com/behdadmehrnia/Wave/actions/workflows/build.yml)
+[![Android Build](https://github.com/behdadmehrnia/Wave/actions/workflows/android.yml/badge.svg)](https://github.com/behdadmehrnia/Wave/actions/workflows/android.yml)
+[![Rust](https://github.com/behdadmehrnia/Wave/actions/workflows/rust.yml/badge.svg)](https://github.com/behdadmehrnia/Wave/actions/workflows/rust.yml)
+[![Frontend](https://github.com/behdadmehrnia/Wave/actions/workflows/frontend.yml/badge.svg)](https://github.com/behdadmehrnia/Wave/actions/workflows/frontend.yml)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
 
 <img src="docs/screenshots/desktop-home.png" alt="Wave on desktop — Home" width="100%">

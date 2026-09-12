@@ -4,7 +4,7 @@
 // Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 // See the LICENSE file in the project root for the full license text
 // and additional terms (attribution and fork-marking requirements).
-// https://github.com/BMDarkLight/Wave
+// https://github.com/behdadmehrnia/Wave
 
 #[cfg(target_os = "windows")]
 use std::sync::mpsc;
