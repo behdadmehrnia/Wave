@@ -12,8 +12,9 @@ mod inner {
     use std::sync::Mutex;
     use std::time::{Duration, Instant};
 
+    #[cfg(target_os = "macos")]
+    use tauri::image::Image;
     use tauri::{
-        image::Image,
         menu::{Menu, MenuItem, PredefinedMenuItem, Submenu},
         tray::{MouseButton, MouseButtonState, TrayIconBuilder, TrayIconEvent},
         AppHandle, Manager,
